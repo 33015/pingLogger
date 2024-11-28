@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Test Rechner",
+        "address": "10.299.299.27"
+    },
+    {
+        "name": "Anderer Rechner",
+        "address": "10.299.299.199"
+    }
+]
